@@ -1,0 +1,7 @@
+01. What happens when the number of hidden nodes increases?
+
+As the number of hidden nodes increases, the accuracy improves, but the improvement becomes smaller after a certain point. If too many hidden nodes are added, the model might become overly complex and could start to overfit.
+
+02. Can you explain the pattern of the accuracy when the hidden nodes increase?
+
+The accuracy of the chart improves as the number of hidden nodes increases, however the improvement becomes smaller after a certain point. This shows that adding more hidden nodes gives better results initially, but after a while, the accuracy doesn’t change much. Furthermore, there’s a limit to how much adding more nodes can help the model, adding too many hidden nodes could result with the model becoming overly complex and could start to overfit
